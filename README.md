@@ -1,10 +1,3 @@
-# maven-project
-
-Simple Maven Project
-
-
-#Test update
-
 [root@jenkins webapp]# vi index.jsp
 [root@jenkins webapp]# git status
 On branch master
